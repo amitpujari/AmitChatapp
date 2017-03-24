@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "200340316765",
+    "firebase_url": "https://ochat-c9c36.firebaseio.com",
+    "project_id": "ochat-c9c36",
+    "storage_bucket": "ochat-c9c36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200340316765:android:d3719d5ef82b312f",
+        "android_client_info": {
+          "package_name": "Chatapp.ChatappAKP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200340316765-p691n9u64bebt8aemb9jc8esm8u5pu6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Chatapp.ChatappAKP",
+            "certificate_hash": "4dcacef4a797e93d2ca0de1e6494f963ece1cdd8"
+          }
+        },
+        {
+          "client_id": "200340316765-vpker09ot7jrjdh1uddhjc07imuq99jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGOUtm7Y1BG5nCJvjJy-DR3JqgU7xQpSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200340316765-vpker09ot7jrjdh1uddhjc07imuq99jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
